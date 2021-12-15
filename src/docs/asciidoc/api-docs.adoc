@@ -1,0 +1,13 @@
+= /v1/devices
+
+== /smgw (json)
+
+include::{snippets}/v1-devices-smgw-json/curl-request.adoc[]
+include::{snippets}/v1-devices-smgw-json/http-request.adoc[]
+include::{snippets}/v1-devices-smgw-json/http-response.adoc[]
+
+== /smgw (csv)
+
+include::{snippets}/v1-devices-smgw-csv/curl-request.adoc[]
+include::{snippets}/v1-devices-smgw-csv/http-request.adoc[]
+include::{snippets}/v1-devices-smgw-csv/http-response.adoc[]
